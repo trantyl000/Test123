@@ -7,9 +7,11 @@ p {
 color: blue;
 }
 
-
 body {
   background-image: url("superchicky.jpeg");
+}
+
+body {
   background-color: lightblue;
 }
 
