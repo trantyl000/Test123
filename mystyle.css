@@ -10,6 +10,7 @@ color: blue;
 
 body {
   background-color: lightblue;
+  background-
 }
 
 
@@ -25,12 +26,12 @@ p.b {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-dl.a {
+dl.w {
     height: auto;
     border: 1px solid black;
 }
 
-p.w {
+img.w {
     width: 50%;
     border: 1px solid black;    
 }
