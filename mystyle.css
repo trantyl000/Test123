@@ -11,3 +11,21 @@ color: blue;
 body {
   background-color: lightblue;
 }
+
+
+a:active {
+    color: yellow;
+} 
+
+p.a {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.a {
+    width: auto;
+    border: 1px solid black;
+}
