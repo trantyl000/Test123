@@ -9,7 +9,7 @@ color: blue;
 
 
 body {
-  background-image: url(superchicky.jpeg);
+  background-image: url("superchicky.jpeg");
   background-color: lightblue;
 }
 
