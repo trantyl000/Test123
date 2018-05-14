@@ -25,7 +25,7 @@ p.b {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-div.a {
-    width: auto;
+dl.a {
+    height: auto;
     border: 1px solid black;
 }
